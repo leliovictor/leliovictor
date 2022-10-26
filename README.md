@@ -4,7 +4,7 @@
 - 🔭 Learning new things is what moves me
 - ⚡ And about moving... Partner dance is something I love to do
 
-- 🌱 I see coding as a life-changer, besides, I always like to resolve new kind of problems!
+- 🌱 I see coding as a life-changer, besides, I always like to resolve new kinds of problems!
 
 <div align="center">
   <a href="https://github.com/lelio-victor">
