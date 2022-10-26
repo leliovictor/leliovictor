@@ -68,19 +68,20 @@
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-FFF?style=for-the-badge&logo=npm)
   
-  <h4> Code editor </h4>
+  <h4> Code editor and Formatter </h4>
   
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
   
   <br>
   
   ![](https://media.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif)
+  [![wakatime](https://wakatime.com/badge/user/532d5458-b0a1-460c-b6d4-0cf3bf62509b.svg)](https://wakatime.com/@532d5458-b0a1-460c-b6d4-0cf3bf62509b)
   
-  
-  
-
-
+  <br>
 
 ## 🔗 Are you up for a coffee? Contact me
 
