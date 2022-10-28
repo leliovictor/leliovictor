@@ -1,13 +1,13 @@
 
-## About me
+## Sobre mim:
 
-- 🔭 Learning new things is what moves me
-- ⚡ And about moving... Partner dance is something I love to do
+- 🔭 Aprender novas coisas é o que me movimenta..
+- ⚡ e sobre movimentar-se... Dançar a dois é meu hobby preferido
 
-- 🌱 I see coding as a life-changer, besides, I always like to resolve new kinds of problems!
+- 🌱 Eu vejo a programação como uma divisora de águas na minha vida, além disso, sempre gostei de resolver diferentes tipos de problema.
 
 
-## 🛠 Skills
+## 🛠 Competências 
 
 <h4> Front-end: </h4>
   
@@ -86,8 +86,7 @@
   
   <br>
 
-## 🔗 Are you up for a coffee? Contact me
-
+## 🔗 Aquele cafézinho está de pé?
 
 [![GMAIL](https://img.shields.io/badge/gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leliov.vieira@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelio-victor/)
