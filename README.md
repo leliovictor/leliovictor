@@ -6,13 +6,7 @@
 
 - 🌱 I see coding as a life-changer, besides, I always like to resolve new kinds of problems!
 
-<div align="center">
-  <a href="https://github.com/lelio-victor">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leliovictor&hide=none&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leliovictor&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
-  
 ## 🛠 Skills
 
 <h4> Front-end: </h4>
@@ -76,6 +70,15 @@
   ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
   ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
   
+  <br>
+  
+  <div align="center">
+  <a href="https://github.com/lelio-victor">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leliovictor&hide=none&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leliovictor&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+  <br>
   <br>
   
   ![](https://media.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif)
