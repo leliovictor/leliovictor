@@ -86,7 +86,7 @@
   
   <br>
 
-## 🔗 Aquele cafézinho está de pé?
+## 🔗 Topa um cafézinho?
 
 [![GMAIL](https://img.shields.io/badge/gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leliov.vieira@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelio-victor/)
